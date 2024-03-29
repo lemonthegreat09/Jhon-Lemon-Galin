@@ -1,0 +1,29 @@
+body {
+    background-color: skyblue;
+}
+
+.navbar {
+    background-color: red !important;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: 800;
+    font-family: monospace;
+}
+
+.navbar ul li a {
+    margin-left: 70px;
+    font-weight: 800;
+    font-family: monospace;
+}
+
+.card {
+    width: 20em;
+    height: 70px;
+    padding: 20px;
+}
+
+.form-control {
+    width: 18em;
+}
